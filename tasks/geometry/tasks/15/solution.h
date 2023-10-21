@@ -45,7 +45,7 @@ const int ONE = 1;
 typedef struct {
     int x;
     int y;
-}
+} Point p;
 
 int CheckZone(Point p) {
     // Write a code here that checks whether a point belongs to a given area
